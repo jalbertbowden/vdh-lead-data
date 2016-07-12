@@ -1,0 +1,6 @@
+Blood Lead Level (μg/dL),Action (Case manager assures coordinated action and follow-up),Time Frame (Begin Intervention)
+10-14,"Provide caregiver lead education: dietary and environmental, Follow-up blood lead testing within 30 days to assure not rising, Within 30 days Refer for WIC and social services, if needed",Within 30 days
+15-19,"Above actions, plus: Proceed according to actions for 20-40 ug/dL if: A follow-up blood lead is 15 or above, or the blood lead level is increasing",Within 2 weeks
+20-44,"Above actions, plus: Provide coordination of care (case management), Provide environmental investigation and control lead hazards",Within 1 week
+45-69,Above actions,Within 48 hours
+70 and Above,"Above actions, plus: Hospitalize child and begin medical treatment (chelation therapy as appropriate) immediately. Contact Emergency Lead Healthcare line.",Within 24 hours
